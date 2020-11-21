@@ -1,1 +1,1 @@
-# python-Kuzmin-Ivanov-Tankharov
+Практическая работа
